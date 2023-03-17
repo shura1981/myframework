@@ -7,7 +7,7 @@ define('URL',$_SERVER['REQUEST_SCHEME'] . "://" . $_SERVER['HTTP_HOST'] . $_SERV
 
 require_once('rutas/boopstrap.php');
 require_once('rutas/multimedia.php');
-
+require_once('rutas/pruebas.php');
 
 
 
